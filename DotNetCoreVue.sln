@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCoreVue.MVC", "DotNetCoreVue.MVC\DotNetCoreVue.MVC.csproj", "{AEFA0C1D-3FD2-4358-9995-59991910A8F4}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "DotNetCoreVue.UI", "DotNetCoreVue.UI\DotNetCoreVue.UI.njsproj", "{C3D87979-8BEE-4579-92CE-496F241C64B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEFA0C1D-3FD2-4358-9995-59991910A8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFA0C1D-3FD2-4358-9995-59991910A8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFA0C1D-3FD2-4358-9995-59991910A8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFA0C1D-3FD2-4358-9995-59991910A8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D87979-8BEE-4579-92CE-496F241C64B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D87979-8BEE-4579-92CE-496F241C64B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D87979-8BEE-4579-92CE-496F241C64B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D87979-8BEE-4579-92CE-496F241C64B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC4A735D-FBAD-4933-893A-34DABD8F6D47}
+	EndGlobalSection
+EndGlobal

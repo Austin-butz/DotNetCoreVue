@@ -1,0 +1,1 @@
+{"version":3,"file":"master.min.css","mappings":";;;AACA;EACI,UAAU;AAAA","sources":["webpack://dot-net-core-vue.ui/./src/components/HelloWorld.vue"],"sourcesContent":["\nh1 {\n    color: red;\n}\n"],"names":[],"sourceRoot":""}
