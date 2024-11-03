@@ -10,7 +10,11 @@
     "@babel/polyfill": "^7.12.1",
     "@babel/runtime": "^7.25.9",
     "core-js": "^3.38.1",
-    "vue": "^2.7.16"
+    "file-loader": "^6.2.0",
+    "leaflet": "^1.9.4",
+    "url-loader": "^4.1.1",
+    "vue": "^2.7.16",
+    "vue2-leaflet": "^2.7.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.9",

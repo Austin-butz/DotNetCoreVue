@@ -28,3 +28,4 @@ C:\Users\austi\OneDrive\Desktop\Code\DotNetCoreVue\DotNetCoreVue.MVC\obj\Debug\n
 C:\Users\austi\OneDrive\Desktop\Code\DotNetCoreVue\DotNetCoreVue.MVC\obj\Debug\net8.0\DotNetCoreVue.MVC.pdb
 C:\Users\austi\OneDrive\Desktop\Code\DotNetCoreVue\DotNetCoreVue.MVC\obj\Debug\net8.0\DotNetCoreVue.MVC.genruntimeconfig.cache
 C:\Users\austi\OneDrive\Desktop\Code\DotNetCoreVue\DotNetCoreVue.MVC\obj\Debug\net8.0\ref\DotNetCoreVue.MVC.dll
+C:\Users\austi\OneDrive\Desktop\Code\DotNetCoreVue\DotNetCoreVue.MVC\obj\Debug\net8.0\DotNetCoreVue.MVC.sourcelink.json

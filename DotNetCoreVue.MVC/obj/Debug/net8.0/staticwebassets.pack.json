@@ -9,6 +9,42 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\master.min.css",
+      "PackagePath": "staticwebassets\\dist\\master.min.css"
+    },
+    {
+      "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\master.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\master.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\master.min.js",
+      "PackagePath": "staticwebassets\\dist\\master.min.js"
+    },
+    {
+      "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\master.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\master.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\style.min.css",
+      "PackagePath": "staticwebassets\\dist\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\style.min.js",
+      "PackagePath": "staticwebassets\\dist\\style.min.js"
+    },
+    {
+      "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\style.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\style.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\vendor.min.js",
+      "PackagePath": "staticwebassets\\dist\\vendor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\vendor.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\vendor.min.js.map"
+    },
+    {
       "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

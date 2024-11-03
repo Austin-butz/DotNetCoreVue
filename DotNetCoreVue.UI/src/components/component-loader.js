@@ -1,25 +1,16 @@
 import Vue from 'vue';
-import HelloWorld from './HelloWorld.vue';
 
-const components = [
-    {
-        component: HelloWorld,
-        element: 'hello-world'
-    },
-];
+import HelloWorld from './HelloWorld.vue';
+import MapApp from './Map.vue'
 
 export default {
     loadComponents() {
-        components.forEach(({ component, element }) => {
-            // Is the custom element in the DOM?
-            if (!document.querySelector(element)) {
-                return;
+        new Vue({
+            el: "#app",
+            components: { MapApp },
+            render(createElement) {
+                return createElement(MapApp, { props: { viewData: window.data } })
             }
-
-            // Create a new Vue instance and mount it to the custom element.
-            new Vue({
-                render: createElement => createElement(component)
-            }).$mount(element);
-        });
+        })
     }
 }

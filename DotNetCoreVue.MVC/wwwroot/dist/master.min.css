@@ -5,5 +5,21 @@ h1[data-v-469af010] {
   color: red;
 }
 
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/Map.vue?vue&type=style&index=0&id=3074bd5c&lang=scss&scoped=true ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************/
+.main[data-v-3074bd5c] .map {
+  height: 66vh;
+}
+.fill-container[data-v-3074bd5c] {
+  width: 2000px;
+  /* or any specific width */
+  height: 1000px;
+  /* or any specific height */
+}
+html[data-v-3074bd5c], body[data-v-3074bd5c] {
+  height: 100%;
+}
+
 
 /*# sourceMappingURL=master.min.css.map*/
