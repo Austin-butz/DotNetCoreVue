@@ -15,7 +15,8 @@ namespace DotNetCoreVue.MVC.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var model = new IndexModel();
+            return View("Index", model);
         }
 
         public IActionResult Privacy()

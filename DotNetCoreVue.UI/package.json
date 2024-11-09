@@ -4,7 +4,7 @@
   "description": "DotNetCoreVue.UI",
   "scripts": {
     "build": "webpack --progress",
-    "watch": "webpack --colors --progress --watch"
+    "watch": "webpack --progress --watch"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",

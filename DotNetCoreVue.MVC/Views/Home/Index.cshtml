@@ -1,3 +1,11 @@
-﻿<div id="app">
+﻿@model IndexModel
+
+<div id="app">
 
 </div>
+
+<script>
+    console.log("STARTING")
+    console.log(@Html.Raw(Json.Serialize(Model)))
+    window.data = @Html.Raw(Json.Serialize(Model));
+</script>

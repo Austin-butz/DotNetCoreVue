@@ -1,0 +1,407 @@
+{
+  "shelters": [
+    {
+      "country": "Canada",
+      "name": "Ferret Rescue Society of Ottawa",
+      "director": "Lisa Galarneau",
+      "location": "Ottawa, Ontario",
+      "phone": "(613) 298-6214",
+      "email": "info@ferretrescue.ca",
+      "website": "https://ferretrescue.ca/",
+      "coordinates": [ 45.4215, -75.6972 ]
+    },
+    {
+      "country": "Canada",
+      "name": "PG Ferrets",
+      "director": "Teresa Cavanaugh",
+      "location": "Prince George, BC",
+      "phone": "250-617-4857",
+      "email": "teresa@inannasgarden.com",
+      "coordinates": [ 53.9194, -122.7497 ]
+    },
+    {
+      "country": "Canada",
+      "name": "Ferrets North Information and Rescue Society",
+      "director": "Shalina Edge",
+      "location": "Prince George, British Columbia",
+      "phone": "250-552-5250",
+      "email": "info@ferretsnorth.org",
+      "website": "www.ferretsnorth.org",
+      "coordinates": [ 53.9194, -122.7497 ]
+    },
+    {
+      "country": "Canada",
+      "name": "Ferret Aid Society of Toronto",
+      "director": "Randy Belair",
+      "location": "Toronto, Ontario",
+      "phone": "416-251-4333",
+      "email": "ferretaid@ferretaid.org",
+      "website": "www.ferretaid.org",
+      "coordinates": [ 43.6510, -79.3470 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferret Dreams Rescue & Adoption",
+      "director": "Matthew Jaramillo",
+      "location": "Denver, CO",
+      "phone": "(303) 733-0086",
+      "email": "matthew@ferretdreams.org",
+      "website": "www.ferretdreams.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 39.7392, -104.9903 ]
+    },
+    {
+      "country": "United States",
+      "name": "Jeremy's Boggle Ferret Bungalow",
+      "director": "Nicole Berrey",
+      "location": "Grady, AL",
+      "email": "jeremysboogle@gmail.com",
+      "coordinates": [ 33.3653, -86.2693 ]
+    },
+    {
+      "country": "United States",
+      "name": "Arkansas Ferret Rescue / Adoptions",
+      "director": "Susan Hayes",
+      "location": "Bentonville, AR",
+      "phone": "(479) 422-8324",
+      "email": "ArkansasFerretRescue@gmail.com",
+      "status": "501(c)3 organization",
+      "coordinates": [ 36.3729, -94.2088 ]
+    },
+    {
+      "country": "United States",
+      "name": "Tender Heart Wildlife Rehab",
+      "director": "Andrea White",
+      "location": "Berryville, AR",
+      "phone": "(870) 350-4189",
+      "email": "thwr@cox.net",
+      "status": "501(c)3 organization",
+      "coordinates": [ 36.3869, -93.5840 ]
+    },
+    {
+      "country": "United States",
+      "name": "Morning Starr Animal Sanctuary",
+      "director": "Fran C Freedman",
+      "location": "Cornville, AZ",
+      "phone": "(928) 821-2420",
+      "email": "fran@morningstarr.org",
+      "website": "www.morningstarr.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 34.5863, -111.7948 ]
+    },
+    {
+      "country": "United States",
+      "name": "AZ Ferret Rescue",
+      "director": "Diane Simonain",
+      "location": "Phoenix, AZ",
+      "email": "ds31760@aol.com",
+      "coordinates": [ 33.4484, -112.0740 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferret Friends",
+      "director": "Sheri Schneider",
+      "location": "Tucson, AZ",
+      "phone": "(520) 308-9014",
+      "email": "ferretfriendsaz@gmail.com",
+      "website": "www.ferretfriendsaz.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 32.2226, -110.9747 ]
+    },
+    {
+      "country": "United States",
+      "name": "West Coast Ferrets",
+      "director": "Karen Nommensen",
+      "location": "Sacramento, CA",
+      "phone": "(833) 433-7738",
+      "email": "info@westcoastferrets.org",
+      "website": "westcoastferrets.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 38.5816, -121.4944 ]
+    },
+    {
+      "country": "United States",
+      "name": "Colorado Ferret Friends Association",
+      "director": "Rita A. Yaroush",
+      "location": "Niwot, CO",
+      "phone": "(303) 776-7511",
+      "email": "dr.weasel@q.com",
+      "coordinates": [ 40.0517, -105.2016 ]
+    },
+    {
+      "country": "United States",
+      "name": "Carpet Sharks Ferret Rescue",
+      "director": "Jamie Barnhurst",
+      "location": "Middleburg, FL",
+      "phone": "(904) 923-9440",
+      "email": "carpet_sharks@bellsouth.net",
+      "coordinates": [ 30.1033, -81.8462 ]
+    },
+    {
+      "country": "United States",
+      "name": "Luna's Ferret Shelter & Rescue",
+      "director": "Steve & Laura Gardner",
+      "location": "Spring Hill, FL",
+      "phone": "(352) 346-7809",
+      "email": "laura.gardner94@yahoo.com",
+      "coordinates": [ 28.4914, -82.6108 ]
+    },
+    {
+      "country": "United States",
+      "name": "Kindness Matters Ferret Rescue",
+      "director": "Debbie Whorley",
+      "location": "Acworth, GA",
+      "phone": "(770) 235-0070",
+      "email": "kmferretrescue@comcast.net",
+      "website": "www.kindnessmattersferretrescue.com",
+      "status": "501(c)3 organization",
+      "coordinates": [ 34.0602, -84.6624 ]
+    },
+    {
+      "country": "United States",
+      "name": "Critter Camp Exotic Pet Sanctuary",
+      "director": "Beth Randall",
+      "location": "German Valley, IL",
+      "phone": "(815) 266-1342",
+      "email": "info@crittercamp.biz",
+      "website": "www.crittercamp.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 42.1355, -89.6534 ]
+    },
+    {
+      "country": "United States",
+      "name": "Greater Chicago Ferret Association",
+      "director": "Martha Cannon",
+      "location": "Lyons, IL",
+      "phone": "(708) 442-8650",
+      "email": "Info@gcfa.com",
+      "website": "www.gcfa.com",
+      "status": "501(c)3 organization",
+      "coordinates": [ 41.8172, -87.8576 ]
+    },
+    {
+      "country": "United States",
+      "name": "Five Points Ferret Refuge",
+      "director": "Brenda Lea Taylor",
+      "location": "Indianapolis, IN",
+      "phone": "(317) 356-2653",
+      "email": "FivePointsFerretRefuge@yahoo.com",
+      "website": "FivePointsFerretRefuge.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 39.7684, -86.1581 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferret Rescue and Halfway House",
+      "director": "Mason Lowrey",
+      "location": "Martinsville, IN",
+      "phone": "(765) 349-0265",
+      "email": "masonfer@sbcglobal.net",
+      "website": "ferretrescuehh.org",
+      "coordinates": [ 39.4218, -86.4150 ]
+    },
+    {
+      "country": "United States",
+      "name": "PG Ferret House",
+      "director": "Dave & Katie Gant",
+      "location": "Louisville, KY",
+      "phone": "(502) 363-1632",
+      "email": "info@pgferrethouse.org",
+      "website": "www.pgferrethouse.org",
+      "coordinates": [ 38.2542, -85.7594 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferret Adoption & Rescue",
+      "director": "Dawn Davis",
+      "location": "New Orleans, LA",
+      "phone": "(504) 756-4218",
+      "email": "ferretadoption@outlook.com",
+      "website": "ferretadoption.com",
+      "status": "501(c)3 organization",
+      "coordinates": [ 29.9511, -90.0715 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferret Rescue of Maine",
+      "director": "Linda Smith",
+      "location": "Rockland, ME",
+      "phone": "(207) 450-0056",
+      "email": "ferretrescuemaine@gmail.com",
+      "website": "www.ferretrescuemaine.com",
+      "status": "501(c)3 organization",
+      "coordinates": [ 44.1008, -69.1004 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferret Lovers Only",
+      "director": "Janelle Deem",
+      "location": "Moorhead, MN",
+      "phone": "(218) 329-2792",
+      "email": "ferretloversonly@gmail.com",
+      "website": "www.ferretloversonly.com",
+      "coordinates": [ 46.8787, -96.7690 ]
+    },
+    {
+      "country": "United States",
+      "name": "Crazy Ferrets",
+      "director": "Jodie Sanger",
+      "location": "South St. Paul, MN",
+      "phone": "(651) 453-3092",
+      "email": "crazyferrets@frontier.com",
+      "website": "www.crazyferrets.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 44.9067, -93.0268 ]
+    },
+    {
+      "country": "United States",
+      "name": "Coastal Ferret Adoption Team",
+      "director": "Sarah Hogue",
+      "location": "Barnegat, NJ",
+      "phone": "(609) 660-1130",
+      "email": "coastalferretadoptionteam@gmail.com",
+      "coordinates": [ 39.7585, -74.1940 ]
+    },
+    {
+      "country": "United States",
+      "name": "New Jersey Ferret Rescue",
+      "director": "Jim Gibbons",
+      "location": "South Amboy, NJ",
+      "phone": "(732) 727-0100",
+      "email": "jimgibbons@optonline.net",
+      "website": "www.njferretrescue.com",
+      "status": "501(c)3 organization",
+      "coordinates": [ 40.4665, -74.2903 ]
+    },
+    {
+      "country": "United States",
+      "name": "New Mexico Ferret Rescue",
+      "director": "Renee Gifford",
+      "location": "Albuquerque, NM",
+      "phone": "(505) 254-5528",
+      "email": "newmexicoferretrescue@yahoo.com",
+      "coordinates": [ 35.0844, -106.6504 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferret Association of New York",
+      "director": "Samantha Crowley",
+      "location": "Brooklyn, NY",
+      "phone": "(718) 284-1073",
+      "email": "ferretassocationny@gmail.com",
+      "website": "www.ferretassociationofny.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 40.6782, -73.9442 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferret Adoption Rescue Team",
+      "director": "Christine Schueller",
+      "location": "Cleveland, OH",
+      "phone": "(216) 255-6147",
+      "email": "ferretadoptionrescueteam@gmail.com",
+      "website": "www.ferretadoptionrescueteam.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 41.4995, -81.6954 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ohio Ferret Rescue",
+      "director": "Lisa Weiss",
+      "location": "Cleveland, OH",
+      "phone": "(216) 246-4940",
+      "email": "ohioferretrescue@gmail.com",
+      "coordinates": [ 41.4995, -81.6954 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferrets of the Heartland",
+      "director": "Kim Lentz",
+      "location": "Tulsa, OK",
+      "phone": "(918) 760-9267",
+      "email": "ferretsoftheheartland@yahoo.com",
+      "website": "www.ferretsoftheheartland.com",
+      "coordinates": [ 36.1540, -95.9928 ]
+    },
+    {
+      "country": "United States",
+      "name": "The Ferret Haven",
+      "director": "Clare Casteel",
+      "location": "Columbia, SC",
+      "phone": "(803) 367-1776",
+      "email": "info@theferrethaven.org",
+      "website": "www.theferrethaven.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 34.0005, -81.0348 ]
+    },
+    {
+      "country": "United States",
+      "name": "Texas Ferret Lovers",
+      "director": "Tina J. Beebe",
+      "location": "Watauga, TX",
+      "phone": "(817) 615-3300",
+      "email": "texasferretlovers@yahoo.com",
+      "coordinates": [ 32.8985, -97.2487 ]
+    },
+    {
+      "country": "United States",
+      "name": "The Ferret Consortium",
+      "director": "Lori Williams",
+      "location": "West Jordan, UT",
+      "phone": "(801) 859-8712",
+      "email": "ferretconsortium@gmail.com",
+      "website": "www.ferretconsortium.org",
+      "status": "501(c)3 organization",
+      "coordinates": [ 40.6095, -111.9387 ]
+    },
+    {
+      "country": "United States",
+      "name": "Furever Ferrets",
+      "director": "Rebecca Ingram",
+      "location": "Farmington, UT",
+      "phone": "(801) 566-4478",
+      "email": "fureverferrets@gmail.com",
+      "coordinates": [ 37.4863, -112.0394 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferret Foster Family",
+      "director": "Loren & Karla Richards",
+      "location": "Miller, WV",
+      "phone": "(304) 636-8561",
+      "email": "ferretfosterfamily@frontier.com",
+      "coordinates": [ 39.4196, -80.3744 ]
+    },
+    {
+      "country": "United States",
+      "name": "Ferret Rescue of West Virginia",
+      "director": "Patrice Powell",
+      "location": "South Charleston, WV",
+      "phone": "(304) 346-6652",
+      "email": "ferrets4u@aol.com",
+      "website": "www.ferretrescueofwv.com",
+      "status": "501(c)3 organization",
+      "coordinates": [ 38.3472, -81.6446 ]
+    },
+    {
+      "country": "United States",
+      "name": "Forever Ferrets",
+      "director": "Brenda Coats",
+      "location": "Green Bay, WI",
+      "phone": "(920) 544-0760",
+      "email": "foreverferrets@gmail.com",
+      "website": "www.foreverferrets.com",
+      "coordinates": [ 44.5133, -88.0132 ]
+    },
+    {
+      "country": "United States",
+      "name": "Weasel Haven Ferret Rescue",
+      "director": "Sandy Goldsborough",
+      "location": "Madison, WI",
+      "phone": "(608) 442-2582",
+      "email": "sandy@weaselhaven.com",
+      "website": "www.weaselhaven.com",
+      "coordinates": [ 43.0731, -89.4012 ]
+    }
+  ]
+}

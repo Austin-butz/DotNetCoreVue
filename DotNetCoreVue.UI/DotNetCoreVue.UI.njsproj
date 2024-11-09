@@ -40,6 +40,7 @@
     <Content Include="src\styles\style.scss">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="todo.md" />
     <Content Include="webpack.config.js">
       <SubType>Code</SubType>
     </Content>
