@@ -27,6 +27,7 @@
             public string website { get; set; }
             public string status { get; set; }
             public IEnumerable<double> coordinates { get; set; }
+            public string species { get; set; }
         }
     }
 }

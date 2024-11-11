@@ -4,14 +4,14 @@
             <l-map :zoom="zoom" :center="center" v-on:ready="onMapReady">
                 <l-tile-layer :url="url" :attribution="attribution"></l-tile-layer>
                 <l-marker :lat-lng="markerLatLng"></l-marker>
-                <div v-for="marker in markers">
+                <div v-for="marker in viewableMarkers">
                     <l-circle :lat-lng="marker.coordinates" :radius="24000">
-                        <l-popup>
+                        <l-popup :options="popupOptions">
                             <div class="container">
                                 <div>
                                     <h5 style="overflow-wrap: break-word;">{{ marker.name }}</h5>
-                                    <p style="overflow-wrap: break-word;">{{ marker.location }}</p>
-                                    <p style="color: blue">{{marker.status}}</p>
+                                    <span style="overflow-wrap: break-word;">{{ marker.location }}</span>
+                                    <span style="color: blue">{{marker.status}}</span>
                                 </div>
                                 <div>
                                     <p class="test-box"></p>
@@ -19,22 +19,30 @@
                                 <div class="break">
                                     <h6>Contact</h6>
                                     <hr />
-                                    <p class="break">Director(s): {{ marker.director }} </p>
-                                    <p class="break">Email: {{marker.email}}</p>
-                                    <p class="break">Phone: {{marker.phone}}</p>
+                                    Director(s):
+                                    <br />
+                                    <b>{{ marker.director }} </b>
+                                    <br />
+                                    Email:
+                                    <br />
+                                    <b>{{marker.email}}</b>
+                                    <br />
+                                    Phone:
+                                    <br />
+                                    <b>{{marker.phone}}</b>
                                 </div>
                                 <div>
-                                    <div class="container">
-                                        <div>
+                                    <div>
+                                        <div class="pill">
                                             sample tag
                                         </div>
-                                        <div>
+                                        <div class="pill">
                                             sample tag
                                         </div>
-                                        <div>
+                                        <div class="pill">
                                             sample tag
                                         </div>
-                                        <div>
+                                        <div class="pill">
                                             sample tag
                                         </div>
                                     </div>
@@ -43,7 +51,7 @@
                         </l-popup>
                     </l-circle>
                 </div>
-                <l-circle :lat-lng="[54.9194, -122.7497]" :radius="24000" fill-color="pink" color="pink">
+                <!--<l-circle :lat-lng="[54.9194, -122.7497]" :radius="24000" fill-color="pink" color="pink">
                     <l-popup>
                         <div class="container">
                             <div>
@@ -79,12 +87,23 @@
                             </div>
                         </div>
                     </l-popup>
-                </l-circle>
+                </l-circle>-->
                 <l-control position="bottomleft" class="control-panel">
                     <div>
-                        <button v-on:click="goToMe">
+                        <button v-on:click="goToMe" class="pill" style="padding: 10px">
                             Find me!!!!
                         </button>
+                    </div>
+                </l-control>
+                <l-control position="topright">
+                    <div style="border-radius: 25px; border: 2px solid #73AD21; padding: 20px">
+                        <multiselect 
+                            v-model="chosenSpecies" 
+                            :options="speciesOptions"
+                            placeholder="Choose a species"
+                            :searchable="true"
+                            :close-on-select="false"
+                            :show-labels="true"></multiselect>
                     </div>
                 </l-control>
             </l-map>
@@ -95,6 +114,9 @@
 <script>
     import { onMounted } from 'vue';
     import { LMap, LTileLayer, LMarker, LCircle, LPopup, LControl } from 'vue2-leaflet';
+    import Multiselect from 'vue-multiselect'
+    //import 'vue-multiselect/dist/vue-multiselect.min.css' //is this working?
+    //import 'vue2-leaflet'
 
     export default {
         props: {
@@ -106,7 +128,8 @@
             LMarker,
             LCircle,
             LPopup,
-            LControl
+            LControl,
+            Multiselect
         },
         data() {
             return {
@@ -120,8 +143,14 @@
                 ],
                 markerLatLng: [51.504, -0.159],
                 markers: [],
+                viewableMarkers: [],
                 position: null,
-                map: null
+                map: null,
+                popupOptions: {
+                    width: "400px"
+                },
+                speciesOptions: ['all', 'ferret', 'dog', 'cat', 'avian'],
+                chosenSpecies: null
             };
         },
         methods: {
@@ -155,19 +184,34 @@
 
             console.log(this.viewData)
             this.markers = this.viewData.rescues.shelters;
+            this.viewableMarkers = this.markers;
+        },
+        watch: {
+            chosenSpecies(value) {
+                if (value == 'all') {
+                    this.viewableMarkers = this.markers
+                }
+                else {
+                    this.viewableMarkers = this.markers.filter(marker => marker.species == value);
+                }
+            }
         }
     }
 </script>
 
 <style lang="css" scoped>
     .main {
-        height: 500px;
+        height: 750px;
+    }
 
-        .control-panel {
-            width: 100%;
-            height: 1000%;
-            background-color: #555;
-        }
+    .leaflet-popup-content {
+        width: auto !important;
+    }
+
+    .control-panel {
+        width: 100%;
+        height: 1000%;
+/*        background-color: #555;*/
     }
 
     p {
@@ -184,38 +228,10 @@
         box-sizing: border-box;
     }
 
-    /*    //html {
-    //    background-color: #eee;
-    //}*/
-
     .container {
         margin: 20px auto;
         display: grid;
-        grid-template-columns: auto auto;
-        grid-row: auto auto;
-        grid-column-gap: 20px;
-        grid-row-gap: 20px;
-        overflow: auto;
-        overflow-wrap: break-word;
-        word-wrap: break-word;
-        word-break: break-all;
-
-        .box {
-            /*            //background-color: #333;*/
-            padding: 20px;
-            border-radius: 10px;
-            /*            //color: #fff;*/
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 10px;
-            font-family: sans-serif;
-        }
-    }
-
-    .newthing {
-        display: grid;
-        grid-template-columns: auto auto;
+        grid-template-columns: 50% auto;
         grid-row: auto auto;
         grid-column-gap: 20px;
         grid-row-gap: 20px;
@@ -233,10 +249,19 @@
         font-family: sans-serif;
     }
 
+    .pill {
+        padding: 1px;
+        margin: 5px;
+        border-radius: 30px;
+        background-color: blue;
+        border: none;
+        color: white;
+        text-align: center
+    }
+
     .break {
-/*        overflow: auto;*/
-        overflow-wrap: break-word;
+        overflow: hidden;
+        word-break: break-word;
         word-wrap: break-word;
-        word-break: break-all;
     }
 </style>

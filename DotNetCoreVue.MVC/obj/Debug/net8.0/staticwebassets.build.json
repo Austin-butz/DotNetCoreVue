@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zCVtVVEnxKCr7ter6hBpCG6lE2QrsWR2s5LlGYlHUlI=",
+  "Hash": "/Uw+uOhqpqk3OkWICiSu0odcwmMxbLL/soFkGYevqb0=",
   "Source": "DotNetCoreVue.MVC",
   "BasePath": "_content/DotNetCoreVue.MVC",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\dist\\style.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\style.min.css.map",
+      "SourceId": "DotNetCoreVue.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\",
+      "BasePath": "_content/DotNetCoreVue.MVC",
+      "RelativePath": "dist/style.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\style.min.css.map"
     },
     {
       "Identity": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\style.min.js",

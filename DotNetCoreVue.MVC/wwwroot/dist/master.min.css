@@ -10,12 +10,15 @@ h1[data-v-469af010] {
   \******************************************************************************************************************************************************************************************************************************************************/
 
 .main[data-v-3074bd5c] {
-        height: 500px;
-.control-panel[data-v-3074bd5c] {
-            width: 100%;
-            height: 1000%;
-            background-color: #555;
+        height: 750px;
 }
+.leaflet-popup-content[data-v-3074bd5c] {
+        width: auto !important;
+}
+.control-panel[data-v-3074bd5c] {
+        width: 100%;
+        height: 1000%;
+/*        background-color: #555;*/
 }
 p[data-v-3074bd5c] {
         line-height: 1px;
@@ -28,36 +31,10 @@ html[data-v-3074bd5c], body[data-v-3074bd5c] {
         padding: 0;
         box-sizing: border-box;
 }
-
-    /*    //html {
-    //    background-color: #eee;
-    //}*/
 .container[data-v-3074bd5c] {
         margin: 20px auto;
         display: grid;
-        grid-template-columns: auto auto;
-        grid-row: auto auto;
-        grid-column-gap: 20px;
-        grid-row-gap: 20px;
-        overflow: auto;
-        overflow-wrap: break-word;
-        word-wrap: break-word;
-        word-break: break-all;
-.box[data-v-3074bd5c] {
-            /*            //background-color: #333;*/
-            padding: 20px;
-            border-radius: 10px;
-            /*            //color: #fff;*/
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 10px;
-            font-family: sans-serif;
-}
-}
-.newthing[data-v-3074bd5c] {
-        display: grid;
-        grid-template-columns: auto auto;
+        grid-template-columns: 50% auto;
         grid-row: auto auto;
         grid-column-gap: 20px;
         grid-row-gap: 20px;
@@ -73,11 +50,19 @@ html[data-v-3074bd5c], body[data-v-3074bd5c] {
         font-size: 40px;
         font-family: sans-serif;
 }
+.pill[data-v-3074bd5c] {
+        padding: 1px;
+        margin: 5px;
+        border-radius: 30px;
+        background-color: blue;
+        border: none;
+        color: white;
+        text-align: center
+}
 .break[data-v-3074bd5c] {
-/*        overflow: auto;*/
-        overflow-wrap: break-word;
+        overflow: hidden;
+        word-break: break-word;
         word-wrap: break-word;
-        word-break: break-all;
 }
 
 

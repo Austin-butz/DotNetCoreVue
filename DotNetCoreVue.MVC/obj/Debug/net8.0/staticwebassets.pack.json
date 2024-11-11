@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\dist\\style.min.css"
     },
     {
+      "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\style.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\style.min.css.map"
+    },
+    {
       "Id": "C:\\Users\\austi\\OneDrive\\Desktop\\Code\\DotNetCoreVue\\DotNetCoreVue.MVC\\wwwroot\\dist\\style.min.js",
       "PackagePath": "staticwebassets\\dist\\style.min.js"
     },

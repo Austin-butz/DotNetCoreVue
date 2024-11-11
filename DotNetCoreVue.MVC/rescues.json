@@ -8,7 +8,8 @@
       "phone": "(613) 298-6214",
       "email": "info@ferretrescue.ca",
       "website": "https://ferretrescue.ca/",
-      "coordinates": [ 45.4215, -75.6972 ]
+      "coordinates": [ 45.4215, -75.6972 ],
+      "species": "ferret"
     },
     {
       "country": "Canada",
@@ -17,7 +18,8 @@
       "location": "Prince George, BC",
       "phone": "250-617-4857",
       "email": "teresa@inannasgarden.com",
-      "coordinates": [ 53.9194, -122.7497 ]
+      "coordinates": [ 53.9194, -122.7497 ],
+      "species": "ferret"
     },
     {
       "country": "Canada",
@@ -27,7 +29,8 @@
       "phone": "250-552-5250",
       "email": "info@ferretsnorth.org",
       "website": "www.ferretsnorth.org",
-      "coordinates": [ 53.9194, -122.7497 ]
+      "coordinates": [ 53.9194, -122.7497 ],
+      "species": "ferret"
     },
     {
       "country": "Canada",
@@ -37,7 +40,8 @@
       "phone": "416-251-4333",
       "email": "ferretaid@ferretaid.org",
       "website": "www.ferretaid.org",
-      "coordinates": [ 43.6510, -79.3470 ]
+      "coordinates": [ 43.6510, -79.3470 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -48,7 +52,8 @@
       "email": "matthew@ferretdreams.org",
       "website": "www.ferretdreams.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 39.7392, -104.9903 ]
+      "coordinates": [ 39.7392, -104.9903 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -56,7 +61,8 @@
       "director": "Nicole Berrey",
       "location": "Grady, AL",
       "email": "jeremysboogle@gmail.com",
-      "coordinates": [ 33.3653, -86.2693 ]
+      "coordinates": [ 33.3653, -86.2693 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -66,7 +72,8 @@
       "phone": "(479) 422-8324",
       "email": "ArkansasFerretRescue@gmail.com",
       "status": "501(c)3 organization",
-      "coordinates": [ 36.3729, -94.2088 ]
+      "coordinates": [ 36.3729, -94.2088 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -76,7 +83,8 @@
       "phone": "(870) 350-4189",
       "email": "thwr@cox.net",
       "status": "501(c)3 organization",
-      "coordinates": [ 36.3869, -93.5840 ]
+      "coordinates": [ 36.3869, -93.5840 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -87,7 +95,8 @@
       "email": "fran@morningstarr.org",
       "website": "www.morningstarr.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 34.5863, -111.7948 ]
+      "coordinates": [ 34.5863, -111.7948 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -95,7 +104,8 @@
       "director": "Diane Simonain",
       "location": "Phoenix, AZ",
       "email": "ds31760@aol.com",
-      "coordinates": [ 33.4484, -112.0740 ]
+      "coordinates": [ 33.4484, -112.0740 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -106,7 +116,8 @@
       "email": "ferretfriendsaz@gmail.com",
       "website": "www.ferretfriendsaz.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 32.2226, -110.9747 ]
+      "coordinates": [ 32.2226, -110.9747 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -117,7 +128,8 @@
       "email": "info@westcoastferrets.org",
       "website": "westcoastferrets.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 38.5816, -121.4944 ]
+      "coordinates": [ 38.5816, -121.4944 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -126,7 +138,8 @@
       "location": "Niwot, CO",
       "phone": "(303) 776-7511",
       "email": "dr.weasel@q.com",
-      "coordinates": [ 40.0517, -105.2016 ]
+      "coordinates": [ 40.0517, -105.2016 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -135,7 +148,8 @@
       "location": "Middleburg, FL",
       "phone": "(904) 923-9440",
       "email": "carpet_sharks@bellsouth.net",
-      "coordinates": [ 30.1033, -81.8462 ]
+      "coordinates": [ 30.1033, -81.8462 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -144,7 +158,8 @@
       "location": "Spring Hill, FL",
       "phone": "(352) 346-7809",
       "email": "laura.gardner94@yahoo.com",
-      "coordinates": [ 28.4914, -82.6108 ]
+      "coordinates": [ 28.4914, -82.6108 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -155,7 +170,8 @@
       "email": "kmferretrescue@comcast.net",
       "website": "www.kindnessmattersferretrescue.com",
       "status": "501(c)3 organization",
-      "coordinates": [ 34.0602, -84.6624 ]
+      "coordinates": [ 34.0602, -84.6624 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -166,7 +182,8 @@
       "email": "info@crittercamp.biz",
       "website": "www.crittercamp.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 42.1355, -89.6534 ]
+      "coordinates": [ 42.1355, -89.6534 ],
+      "species": "ferret"
     },
     {
       "country": "United States",
@@ -177,7 +194,8 @@
       "email": "Info@gcfa.com",
       "website": "www.gcfa.com",
       "status": "501(c)3 organization",
-      "coordinates": [ 41.8172, -87.8576 ]
+      "coordinates": [ 41.8172, -87.8576 ],
+      "species": "dog"
     },
     {
       "country": "United States",
@@ -188,7 +206,8 @@
       "email": "FivePointsFerretRefuge@yahoo.com",
       "website": "FivePointsFerretRefuge.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 39.7684, -86.1581 ]
+      "coordinates": [ 39.7684, -86.1581 ],
+      "species": "dog"
     },
     {
       "country": "United States",
@@ -198,7 +217,8 @@
       "phone": "(765) 349-0265",
       "email": "masonfer@sbcglobal.net",
       "website": "ferretrescuehh.org",
-      "coordinates": [ 39.4218, -86.4150 ]
+      "coordinates": [ 39.4218, -86.4150 ],
+      "species": "dog"
     },
     {
       "country": "United States",
@@ -208,7 +228,8 @@
       "phone": "(502) 363-1632",
       "email": "info@pgferrethouse.org",
       "website": "www.pgferrethouse.org",
-      "coordinates": [ 38.2542, -85.7594 ]
+      "coordinates": [ 38.2542, -85.7594 ],
+      "species": "dog"
     },
     {
       "country": "United States",
@@ -219,7 +240,8 @@
       "email": "ferretadoption@outlook.com",
       "website": "ferretadoption.com",
       "status": "501(c)3 organization",
-      "coordinates": [ 29.9511, -90.0715 ]
+      "coordinates": [ 29.9511, -90.0715 ],
+      "species": "dog"
     },
     {
       "country": "United States",
@@ -230,7 +252,8 @@
       "email": "ferretrescuemaine@gmail.com",
       "website": "www.ferretrescuemaine.com",
       "status": "501(c)3 organization",
-      "coordinates": [ 44.1008, -69.1004 ]
+      "coordinates": [ 44.1008, -69.1004 ],
+      "species": "dog"
     },
     {
       "country": "United States",
@@ -240,7 +263,8 @@
       "phone": "(218) 329-2792",
       "email": "ferretloversonly@gmail.com",
       "website": "www.ferretloversonly.com",
-      "coordinates": [ 46.8787, -96.7690 ]
+      "coordinates": [ 46.8787, -96.7690 ],
+      "species": "dog"
     },
     {
       "country": "United States",
@@ -251,7 +275,8 @@
       "email": "crazyferrets@frontier.com",
       "website": "www.crazyferrets.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 44.9067, -93.0268 ]
+      "coordinates": [ 44.9067, -93.0268 ],
+      "species": "cat"
     },
     {
       "country": "United States",
@@ -260,7 +285,8 @@
       "location": "Barnegat, NJ",
       "phone": "(609) 660-1130",
       "email": "coastalferretadoptionteam@gmail.com",
-      "coordinates": [ 39.7585, -74.1940 ]
+      "coordinates": [ 39.7585, -74.1940 ],
+      "species": "cat"
     },
     {
       "country": "United States",
@@ -271,7 +297,8 @@
       "email": "jimgibbons@optonline.net",
       "website": "www.njferretrescue.com",
       "status": "501(c)3 organization",
-      "coordinates": [ 40.4665, -74.2903 ]
+      "coordinates": [ 40.4665, -74.2903 ],
+      "species": "cat"
     },
     {
       "country": "United States",
@@ -280,7 +307,8 @@
       "location": "Albuquerque, NM",
       "phone": "(505) 254-5528",
       "email": "newmexicoferretrescue@yahoo.com",
-      "coordinates": [ 35.0844, -106.6504 ]
+      "coordinates": [ 35.0844, -106.6504 ],
+      "species": "cat"
     },
     {
       "country": "United States",
@@ -291,7 +319,8 @@
       "email": "ferretassocationny@gmail.com",
       "website": "www.ferretassociationofny.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 40.6782, -73.9442 ]
+      "coordinates": [ 40.6782, -73.9442 ],
+      "species": "cat"
     },
     {
       "country": "United States",
@@ -302,7 +331,8 @@
       "email": "ferretadoptionrescueteam@gmail.com",
       "website": "www.ferretadoptionrescueteam.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 41.4995, -81.6954 ]
+      "coordinates": [ 41.4995, -81.6954 ],
+      "species": "cat"
     },
     {
       "country": "United States",
@@ -311,7 +341,8 @@
       "location": "Cleveland, OH",
       "phone": "(216) 246-4940",
       "email": "ohioferretrescue@gmail.com",
-      "coordinates": [ 41.4995, -81.6954 ]
+      "coordinates": [ 41.4995, -81.6954 ],
+      "species": "cat"
     },
     {
       "country": "United States",
@@ -321,7 +352,8 @@
       "phone": "(918) 760-9267",
       "email": "ferretsoftheheartland@yahoo.com",
       "website": "www.ferretsoftheheartland.com",
-      "coordinates": [ 36.1540, -95.9928 ]
+      "coordinates": [ 36.1540, -95.9928 ],
+      "species": "cat"
     },
     {
       "country": "United States",
@@ -332,7 +364,8 @@
       "email": "info@theferrethaven.org",
       "website": "www.theferrethaven.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 34.0005, -81.0348 ]
+      "coordinates": [ 34.0005, -81.0348 ],
+      "species": "cat"
     },
     {
       "country": "United States",
@@ -341,7 +374,8 @@
       "location": "Watauga, TX",
       "phone": "(817) 615-3300",
       "email": "texasferretlovers@yahoo.com",
-      "coordinates": [ 32.8985, -97.2487 ]
+      "coordinates": [ 32.8985, -97.2487 ],
+      "species": "avian"
     },
     {
       "country": "United States",
@@ -352,7 +386,8 @@
       "email": "ferretconsortium@gmail.com",
       "website": "www.ferretconsortium.org",
       "status": "501(c)3 organization",
-      "coordinates": [ 40.6095, -111.9387 ]
+      "coordinates": [ 40.6095, -111.9387 ],
+      "species": "avian"
     },
     {
       "country": "United States",
@@ -361,7 +396,8 @@
       "location": "Farmington, UT",
       "phone": "(801) 566-4478",
       "email": "fureverferrets@gmail.com",
-      "coordinates": [ 37.4863, -112.0394 ]
+      "coordinates": [ 37.4863, -112.0394 ],
+      "species": "avian"
     },
     {
       "country": "United States",
@@ -370,7 +406,8 @@
       "location": "Miller, WV",
       "phone": "(304) 636-8561",
       "email": "ferretfosterfamily@frontier.com",
-      "coordinates": [ 39.4196, -80.3744 ]
+      "coordinates": [ 39.4196, -80.3744 ],
+      "species": "avian"
     },
     {
       "country": "United States",
@@ -381,7 +418,8 @@
       "email": "ferrets4u@aol.com",
       "website": "www.ferretrescueofwv.com",
       "status": "501(c)3 organization",
-      "coordinates": [ 38.3472, -81.6446 ]
+      "coordinates": [ 38.3472, -81.6446 ],
+      "species": "avian"
     },
     {
       "country": "United States",
@@ -391,7 +429,8 @@
       "phone": "(920) 544-0760",
       "email": "foreverferrets@gmail.com",
       "website": "www.foreverferrets.com",
-      "coordinates": [ 44.5133, -88.0132 ]
+      "coordinates": [ 44.5133, -88.0132 ],
+      "species": "avian"
     },
     {
       "country": "United States",
@@ -401,7 +440,8 @@
       "phone": "(608) 442-2582",
       "email": "sandy@weaselhaven.com",
       "website": "www.weaselhaven.com",
-      "coordinates": [ 43.0731, -89.4012 ]
+      "coordinates": [ 43.0731, -89.4012 ],
+      "species": "avian"
     }
   ]
 }

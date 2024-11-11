@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetCoreVue.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1edc2a0c2f7a92193ac8222c1a43fed858e94c02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0604fcf2914189bfccf815b42497a9511eac04f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetCoreVue.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetCoreVue.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
