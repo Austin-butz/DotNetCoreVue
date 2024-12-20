@@ -11,3 +11,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+/DotNetCoreVue.MVC/bin/Debug
+/DotNetCoreVue.MVC/obj/Debug
+/DotNetCoreVue.UI/bin/Debug
+/DotNetCoreVue.UI/obj/Debug
