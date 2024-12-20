@@ -29,15 +29,18 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="src\components\component-loader.js" />
+    <Content Include="src\components\global-methods.js" />
     <Content Include="src\components\HelloWorld.vue">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="src\components\Map.vue" />
     <Content Include="src\index.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
     <Content Include="src\styles\style.scss">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="todo.md" />
     <Content Include="webpack.config.js">
       <SubType>Code</SubType>
     </Content>

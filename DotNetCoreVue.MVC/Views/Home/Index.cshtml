@@ -1,5 +1,11 @@
-﻿// Index.cshtml
+﻿@model IndexModel
+
 <div id="app">
 
-    <hello-world></hello-world>
 </div>
+
+<script>
+    console.log("STARTING")
+    console.log(@Html.Raw(Json.Serialize(Model)))
+    window.data = @Html.Raw(Json.Serialize(Model));
+</script>

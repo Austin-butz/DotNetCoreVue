@@ -28,7 +28,7 @@ module.exports = {
     devtool: 'source-map',
     entry: {
         master: getSourcePath('index.js'),
-        style: `${styleDir}/style.scss`
+        style: [`${styleDir}/style.scss`]
     },
     mode: 'development',
     module: {
@@ -50,7 +50,16 @@ module.exports = {
             {
                 test: /\.vue$/,
                 loader: 'vue-loader'
-            }
+            },
+            {
+                test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
+                loader: 'url-loader'
+            },
+            {
+                test: /\.(png|jpe?g|gif)$/i,
+                loader: 'file-loader'
+            },
+
         ]
     },
     optimization: {

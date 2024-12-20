@@ -5,5 +5,65 @@ h1[data-v-469af010] {
   color: red;
 }
 
+/*!******************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/Map.vue?vue&type=style&index=0&id=3074bd5c&lang=css&scoped=true ***!
+  \******************************************************************************************************************************************************************************************************************************************************/
+
+.main[data-v-3074bd5c] {
+        height: 750px;
+}
+.leaflet-popup-content[data-v-3074bd5c] {
+        width: auto !important;
+}
+.control-panel[data-v-3074bd5c] {
+        width: 100%;
+        height: 1000%;
+/*        background-color: #555;*/
+}
+p[data-v-3074bd5c] {
+        line-height: 1px;
+}
+html[data-v-3074bd5c], body[data-v-3074bd5c] {
+        height: 100%;
+}
+*[data-v-3074bd5c] {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+.container[data-v-3074bd5c] {
+        margin: 20px auto;
+        display: grid;
+        grid-template-columns: 50% auto;
+        grid-row: auto auto;
+        grid-column-gap: 20px;
+        grid-row-gap: 20px;
+}
+.test-box[data-v-3074bd5c] {
+        background-color: #333;
+        padding: 40px;
+        border-radius: 10px;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 40px;
+        font-family: sans-serif;
+}
+.pill[data-v-3074bd5c] {
+        padding: 1px;
+        margin: 5px;
+        border-radius: 30px;
+        background-color: blue;
+        border: none;
+        color: white;
+        text-align: center
+}
+.break[data-v-3074bd5c] {
+        overflow: hidden;
+        word-break: break-word;
+        word-wrap: break-word;
+}
+
 
 /*# sourceMappingURL=master.min.css.map*/

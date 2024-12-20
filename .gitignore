@@ -1,5 +1,17 @@
 /DotNetCoreVue.MVC/node_modules
 /DotNetCoreVue.UI/node_modules
 /.vs
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
 /DotNetCoreVue.MVC/bin/Debug
+/DotNetCoreVue.MVC/obj/Debug
+/DotNetCoreVue.UI/bin/Debug
 /DotNetCoreVue.UI/obj/Debug
