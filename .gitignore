@@ -1,3 +1,5 @@
 /DotNetCoreVue.MVC/node_modules
 /DotNetCoreVue.UI/node_modules
 /.vs
+/DotNetCoreVue.MVC/bin/Debug
+/DotNetCoreVue.UI/obj/Debug
